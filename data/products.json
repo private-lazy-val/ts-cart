@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "sku": "item0001",
+      "name": "Bulldog Red Jacket",
+      "price": 20.99
+    },
+    {
+      "sku": "item0002",
+      "name": "Bulldog Green Jacket",
+      "price": 20.99
+    },
+    {
+      "sku": "item0003",
+      "name": "Bulldog Brown Jacket",
+      "price": 20.99
+    }
+  ]
+}
